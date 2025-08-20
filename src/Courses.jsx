@@ -45,29 +45,6 @@ const courses = [
   },
 ];
 
-const offices = [
-  {
-    title: "Head Office",
-    address: `"Shiv-Sawali", 2nd Floor, N-7, CIDCO R-28 Plot No.60, Opp.Baliram Patil High School, Aurangabad.`,
-    phone: "9822451920",
-    altPhone: "0240-2485766",
-    time: "Monday - Friday: 9:00 AM - 9:00 PM",
-  },
-  {
-    title: "Branch Office",
-    address: `“Shiv-Sawali”, Plot No.13, GUT No.70, Near Alpine Hospital, Atharv Daily Needs, Chh.Shambhajinagar (MS) 431001.`,
-    phone: "9970727708",
-    altPhone: "0240-2985766",
-    time: "Monday – Saturday: 9:00 AM – 9:00 PM",
-  },
-  {
-    title: "Pune Office",
-    address: `2nd Floor Office No.222-223 Survey No. 153/1A Off-Service Road, Mumbai Expressway, behind TipTop Intl Hotel, Wakad.`,
-    phone: "9561191113",
-    time: "Monday – Saturday: 9:00 AM – 9:00 PM",
-  },
-];
-
 const Courses = () => {
   return (
     <div className="max-w-7xl mx-auto py-12 px-6">
