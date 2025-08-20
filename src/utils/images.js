@@ -1,0 +1,2 @@
+  export const BODY_IMAGE='https://www.acte.in/wp-content/uploads/2021/12/Red-Hat-Certification-as-a-Career-Path-ACTE.jpg'
+  export const HIGHLIGHT_IMAGE='https://unnatidevelopment.in/wp-content/uploads/2019/12/banner1.png'
