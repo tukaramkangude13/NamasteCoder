@@ -21,7 +21,6 @@ const Body = () => {
       <IndustryAssociationTestimonials/>
       <Technologies />
 
-<History/>
 {/* <Footer/> */}
     </div></>
   )
